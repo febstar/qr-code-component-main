@@ -1,0 +1,43 @@
+p {
+    text-align: center;
+    Weights: 400, 700;
+    font-size: 20px;
+
+}
+
+.image {
+    border-radius: 35px;
+    padding: 25px;
+    width: 325px;
+
+}
+
+html {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.linking {
+    width: 375px;
+    padding: 200px;
+    background: hsl(212, 45%, 89%);
+}
+
+.inner {
+    border-radius: 25px;
+    background: white;
+}
+
+p[id="1"]{
+    font-family: "Lucida Console", Monospace;
+    padding: 10px;
+    color: hsl(218, 44%, 22%)
+
+
+}
+
+p[id="2"]{
+    font-family: "Courier New", Monospace;
+    padding: 10px;
+    color: hsl(220, 15%, 55%)
+
+}
